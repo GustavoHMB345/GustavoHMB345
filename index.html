@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portifólio</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/6f2f81295c.js" crossorigin="anonymous"></script>
+<style>
+    .foto-perfil {
+        height:100%;
+        width:auto;
+        max-width: 100%;
+        border-radius: 50%;
+    }
+    .corPrimaria {
+      background-color:black;
+    }
+    .corSecundaria{
+      background-color:darksalmon;
+    }
+    p{
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color:black !important;
+    }
+    .icones{
+      padding-left:5px;
+    }
+    .titulosBrancos{
+      text-decoration: underline;
+      text-underline-position: below;
+      padding-bottom: 20px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color:white
+    }
+
+    .titulosVerdes{
+      text-decoration: underline;
+      text-underline-position: below;
+      padding-bottom: 20px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color:green
+    }
+
+    .textoBranco {
+      color:white !important;
+    }
+
+    .jumbotron {
+      margin-bottom: 0px;
+    }
+
+    .textoFooter {
+      margin:0px;
+      padding-top:15px;
+      padding-bottom:15px;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+
+  </style>
+</head>
+<body>
+    <nav class="corSecundaria navbar navbar-expand-lg navbar-light ">
+        <a class="navbar-brand textoBranco " href="#">Gustavo Henrique</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+          </ul>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link textoBranco " href="#projetos">Projetos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link textoBranco " href="#sobre-mim">Sobre mim</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link textoBranco " href="#contato">Contato</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <section class="jumbotron text-center corPrimaria">
+        <div class="container">
+            <img class="foto-perfil"src="https://i.ibb.co/kJQqDMT/IMG-20230805-WA0021.png" alt="">
+          <h1 class="jumbotron-heading textoBranco ">Gustavo Henrique de Matos Barros</h1>
+          <p class="lead textoBranco ">Futuro desenvolvedor de software - Estudante de programação</p>
+          <p>
+            <a href="#contato" class="btn btn-dark my-2">Contato</a>
+          </p>
+          <a href="www.linkedin.com/in/gustavo-barros345"> <i class="textoBranco  fab fa-linkedin"></i></a> 
+          <a href="https://github.com/GustavoHMB345"> <i class="textoBranco  icones fab fa-github"></i></a> 
+          <a href="https://www.instagram.com/guts01110/"> <i class="textoBranco  icones fab fa-instagram"></i></a> 
+        </div>
+      </section>
+      <div class="album py-5 bg-light" id="projetos">
+        <div class="container">
+<h2 class="jumbroton-heading text-center titulosVerdes">Projetos</h2>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="https://user-images.githubusercontent.com/112867758/200859977-ad0d2651-2489-4108-a09f-d73b62083056.png">
+                <div class="card-body">
+                  <p class="card-text">Um projeto de banco de dados que consiste em armazenamento de informações em TXT</p>
+                  <ul>
+                    <li>Python</li>
+                  </ul>   
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a href="https://github.com/JLucas17/TRABALHO-2-RAD-EM-PYTHON/blob/main/Documenta%C3%A7%C3%A3o_Trabalho2_RAD_Python.pdf"> <button type="button" class="btn btn-sm btn-outline-success">Ver projeto</button></a>
+                      <button type="button" class="btn btn-sm btn-outline-primary">Código</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="https://user-images.githubusercontent.com/112867758/200859977-ad0d2651-2489-4108-a09f-d73b62083056.png">
+                <div class="card-body">
+                  <p class="card-text">Um projeto de banco de dados que consiste em armazenamento de informações em TXT</p>
+                  <ul>
+                    <li>Python</li>
+                  </ul>   
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a href="https://github.com/JLucas17/TRABALHO-2-RAD-EM-PYTHON/blob/main/Documenta%C3%A7%C3%A3o_Trabalho2_RAD_Python.pdf"> <button type="button" class="btn btn-sm btn-outline-success">Ver projeto</button></a>
+                      <button type="button" class="btn btn-sm btn-outline-primary">Código</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sobre Mim --> 
+      <section class="jumbotron text-center corPrimaria" id="sobre-mim">
+        <div class="conteiner">
+          <h2 class="jumbotron-heading titulosBrancos">Sobre mim</h2>
+          <p class="lead textoBranco">Olá, meu nome é Gustavo e estou no 5º período do curso de ciências da computação . Sou um grande fã de tecnologia e desenvolvimento de sistemas, então tenho a intenção de aprender mais a cada dia e fazer parte desse mundo de 0 e 1 </p>
+        </div>
+      </section>
+
+      <!-- Contato -->
+      <section class='corPrimaria' id="contato">
+        <div>
+          <div class="container-fluid">
+            <h3 style="padding-top:60px" class="text-center titulosBrancos">Disponível para oportunidades</h3>
+            <a href="mailto:gustavohmb345@gmail.com"> <h4 style="padding-bottom: 60px;" margin-bottom:0px; class="text-center">👉gustavohmb345@gmail.com👈</h4></a> 
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer class="text-center corSecundaria textoFooter">
+        <p class="textoBranco">Copyright 2023 Gustavo Henrique</p>
+      </footer>
+</body>
+</html>
