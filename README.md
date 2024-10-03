@@ -1,7 +1,7 @@
 ## Olá pessoas, Eu sou o Gustavo Henrique 😃
 
 - 🎓 Cursando ciências da computação
-- 📚 Estudando Python no tempo livre <img align="center" alt="GustavoHMB345" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+-  Estudando Python no tempo livre <img align="center" alt="GustavoHMB345" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 - 📩 Contate-me no email: gustavohmb345@gmail.com
 
 <div align="center">
