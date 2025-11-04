@@ -1,7 +1,6 @@
 ## Olá pessoas, Eu sou o Gustavo Henrique 😃
 
-- 🎓 Cursando ciências da computação
-- <img src="https://github.com/user-attachments/assets/cc62f2c1-41a3-482f-8fb8-7e1f9669003e" alt="GustavoHMB345" width="20"/>  
+- 🎓 Cursando ciências da computação  
 - 📩 Contate-me no email: gustavohmb345@gmail.com
 
 <div align="center">
