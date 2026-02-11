@@ -1,6 +1,6 @@
 ## Olá pessoas, Eu sou o Gustavo Henrique 😃
 
-- 🎓 Cursando ciências da computação  
+- 🎓 Formado em ciências da computação  
 - 📩 Contate-me no email: gustavohmb345@gmail.com
 
 <div align="center">
