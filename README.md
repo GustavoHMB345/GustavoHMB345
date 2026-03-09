@@ -1,13 +1,37 @@
-## Olá pessoas, Eu sou o Gustavo Henrique 😃
+# Olá, eu sou o Gustavo Henrique 👋
 
-- 🎓 Formado em ciências da computação  
-- 📩 Contate-me no email: gustavohmb345@gmail.com
+### 👨‍💻 Sobre Mim
+- 🎓 **Cientista da Computação** apaixonado por resolver problemas através de códigos.
+- Atualmente focado em aprimorar minhas habilidades em Javascript.
+- Gosto de conversar sobre desenvolvimento de software e novas tecnologias.
+
+---
+
+### 🛠 Ferramentas e Tecnologias
+Aqui estão algumas das tecnologias com as quais tenho experiência:
+
+| Frontend | Backend | Banco de Dados | Ferramentas |
+| :--- | :--- | :--- | :--- |
+| HTML, CSS, JS | Node.js, Python | PostgreSQL | Git, Docker |
+| React | Java | MySQL | Linux |
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-   <a href="https://github.com/GustavoHMB345">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHMB345&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHMB345&theme=dark&hide_border=false&&layout=compact"/>
-   </a>
- </div>
- 
+  <a href="https://github.com/GustavoHMB345">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHMB345&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHMB345&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Contribuições
 ![snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Vamos nos conectar?
+- 📧 E-mail: [gustavohmb345@gmail.com](mailto:gustavohmb345@gmail.com)
