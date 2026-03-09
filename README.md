@@ -13,11 +13,10 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 | Frontend | Backend | Banco de Dados | Ferramentas |
 | :--- | :--- | :--- | :--- |
 | HTML, CSS, JS | Node.js, Python | PostgreSQL | Git, Docker |
-| React | Java | MySQL | Linux |
+| React | Java | MySQL 
 
 ---
 
-### 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/GustavoHMB345">
@@ -28,10 +27,9 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 ---
 
-### 🐍 Contribuições
 ![snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📫 Vamos nos conectar?
+### Contato
 - 📧 E-mail: [gustavohmb345@gmail.com](mailto:gustavohmb345@gmail.com)
